@@ -1,0 +1,39 @@
+# Site settings
+name: CocoaSY
+email: cocoa@2smail.online
+author: Jarrar
+
+baseurl: "/Advanced-OSx-Programing"
+url: https://cocoasy.github.io
+
+resume_site: https://cocoasy.github.io
+github: https://github.com/CocoaSY/
+description: OH !  NO !!!
+meta_description: CocoaSY;个人博客
+motto: It's time to wake up.
+banner: Hello world
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: CocoaSY
+highlighter: rouge
+
+# Build settings
+markdown: kramdown
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : cocoasy
+    # disqus :
+    #     short_name : freudkang
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
