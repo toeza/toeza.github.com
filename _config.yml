@@ -29,7 +29,7 @@ FB:
   comments :
     provider : duoshuo
     duoshuo:
-    #    short_name : cocoasy
+        short_name : toeza
     # disqus :
     #     short_name : freudkang
     # facebook :
