@@ -1,7 +1,7 @@
 ---
 layout:post
 
-title:How to Play Kent
+title:How to Play Kent  
 date:2016-12-07 14:32:45 +0800
 
 ---
