@@ -2,9 +2,12 @@
 layout:post
 
 title:How to Play Kent  
-date:2016-12-07 14:32:45 +0800
+date:2016-12-07 15:07:15 +0800
 
 ---
+
+* content
+{:toc}
 
 
 Edit Article<h1 class="firstHeading">How to Play Kent</h1>
